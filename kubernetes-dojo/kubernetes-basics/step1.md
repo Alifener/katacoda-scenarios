@@ -6,7 +6,7 @@ You can manage minikube with it's kubernetes api through kubectl command line in
 
 ## Katas
 
-Dicover kubectl cli.
+Discover kubectl cli.
 
 Check the version of your kubectl.
 
